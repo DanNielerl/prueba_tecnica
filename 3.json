@@ -1,0 +1,7 @@
+{
+    "clientes": [
+        {"nombre": "Ana", "compras": [120, 50, 300]},
+        {"nombre": "Luis", "compras": [200, 100]},
+        {"nombre": "Maria", "compras": [400, 150, 20, 30]}
+    ]
+}
